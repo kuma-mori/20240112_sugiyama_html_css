@@ -52,6 +52,7 @@ html {
 .main-text {
     font-size: 80px;
     line-height: 1em;
+    white-space: nowrap
 }
 .bg-blue {
     background-color: #0000ff;
