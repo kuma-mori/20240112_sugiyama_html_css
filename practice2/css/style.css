@@ -59,34 +59,3 @@ html {
     height: 200px;
     margin-bottom: 150px;
 }
-/* position 
-.container {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row-reverse;
-    height: 90vh;
-    position: relative;
-}
-.first-view {
-    margin-top: 100px;
-}
-.first-view img {
-    max-width: 700px;
-    max-height: 600px;
-}
-.content { 
-    position: absolute;
-    left: 0;
-    margin-top: 40vh;
-    z-index: -1;
-}
-.main-text {
-    font-size: 80px;
-    line-height: 1em;
-}
-.bg-blue {
-    background-color: #0000ff;
-    width: 1000px;
-    height: 200px;
-}
-*/
